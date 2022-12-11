@@ -1,5 +1,25 @@
 # LandMap-Segmentation with PyTorch 🔥
 
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+### 항공데이터를 이용한 토지피복지도 이미지 객체 분할
+
+-   항공 사진 내 픽셀이 건물인지 아닌지 분할
+
+<!-- TOC -->
+
+-
+
+<!-- /TOC -->
+
+## Requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+#
+
 <details>
 <summary>Directory Structure</summary>
 <div>
