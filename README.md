@@ -2,23 +2,22 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-### 항공데이터를 이용한 토지피복지도 이미지 객체 분할
+## Image Object Segmentation of Land Cover Map Using Aerial Data
 
 -   항공 사진 내 픽셀이 건물인지 아닌지 분할
 
-<!-- TOC -->
+### Develop Environment
 
--
+-   Ubuntu Server 22.04 LTS
+-   Python 3.8.15
+-   Anaconda 22.9.0
+-   Pytorch 1.13.0
 
-<!-- /TOC -->
-
-## Requirements
+### requirements
 
 ```bash
 pip install -r requirements.txt
 ```
-
-#
 
 <details>
 <summary>Directory Structure</summary>
@@ -36,7 +35,7 @@ pip install -r requirements.txt
 
     -   모델을 빌드하고 훈련하는 데 사용되는 `Script`가 있습니다.
 
--   notebook - `.ipynb` 확장자의 notbook들로 정리해둔 디렉토리 입니다.
+-   notebook - `.ipynb` 확장자의 notbook들을 정리해둔 디렉토리 입니다.
 
 </div>
 </details>
